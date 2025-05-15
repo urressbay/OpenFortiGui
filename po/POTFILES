@@ -1,0 +1,6 @@
+data/org.gnome.OpenFortiGui.desktop.in
+data/org.gnome.OpenFortiGui.metainfo.xml.in
+data/org.gnome.OpenFortiGui.gschema.xml
+src/main.c
+src/openfortigui-window.c
+src/openfortigui-window.ui
